@@ -1,0 +1,39 @@
+Semilla: 0.02
+D: 0.00375
+miu: 0.00001843
+beta: 0.189
+Ad: 0.0000283
+AD: 0.000794226
+Tolerancia: 0.000000001
+Densidad: 1.20087
+Densidad: 1.19892
+Densidad: 1.19777
+Densidad: 1.19583
+Densidad: 1.19457
+Densidad: 1.19411
+Densidad: 1.20282
+Densidad: 1.20282
+Densidad: 1.20144
+Densidad: 1.20144
+Densidad: 1.20179
+Densidad: 1.20167
+Densidad: 1.20179
+Densidad: 1.20190
+Densidad: 1.20236
+Densidad: 1.20236
+Caída Presion: 230
+Caída Presion: 201
+Caída Presion: 181
+Caída Presion: 157
+Caída Presion: 137
+Caída Presion: 123
+Caída Presion: 284
+Caída Presion: 314
+Caída Presion: 353
+Caída Presion: 392
+Caída Presion: 417
+Caída Presion: 441
+Caída Presion: 466
+Caída Presion: 485
+Caída Presion: 510
+Caída Presion: 544
